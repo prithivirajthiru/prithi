@@ -1,0 +1,44 @@
+arr{
+
+    margin-top: 5px;
+}
+.container{
+    
+    height: 30px;
+    background:rgb(79, 77, 77);
+
+}
+#in{
+    margin-left:0.5cm;
+    width: 10cm;
+}
+.hi{
+    color:red;
+}
+h3{
+    margin-left: 50px;
+}
+th{
+    background-color: darkgrey;
+}
+.table{
+      
+    margin-top: 10px;
+    margin-left:100px;
+}
+#b1{
+background-color: darkgray;
+margin-left: 800px;
+}
+.home1{
+    background-color: darkgray;
+    color: white;
+}
+#bt{
+   margin-top: 10px;
+    background-color: white;
+
+}
+h5{
+    margin-top: 30px;
+}
