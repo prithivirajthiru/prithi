@@ -1,4 +1,4 @@
-# prithi
+# code for Spotify
 My assignment
 Deltax code for Spotify 
 Using Bootstrap and React.js
